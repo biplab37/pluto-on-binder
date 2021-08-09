@@ -19,3 +19,5 @@ This is the public repository that gets launched behind the scenes when you use 
 You probably do **not** want to fork this repository and use it for another project, **these instruction will come soon**. This is also **not** the recommended way to install Pluto as a jupyter extension. For this, we are working on https://github.com/fonsp/pluto-on-jupyterlab.
 
 Reading the source code of this repository might be confusing! But to Pluto's developers: have a look at the different branches, the master branch is for the demo link, all other branches are for other experiments.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/biplab37/pluto-on-binder/master)
